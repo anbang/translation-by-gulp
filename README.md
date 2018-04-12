@@ -1,4 +1,4 @@
-# google-translation-by-gulp
+# translation-by-gulp
 
 支持谷歌、百度、有道的API翻译，将中文json文件翻译为其他语言json文件，通过Google翻译出一百多国家的语言；
 
