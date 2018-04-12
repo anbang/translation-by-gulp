@@ -13,6 +13,10 @@
         "total":"Lapapọ"
     },
     "page_setting":{
-        "tit":"Eto"
+        "tit":"Eto",
+        "demo_setting":{
+          "tit":"Kaabo",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

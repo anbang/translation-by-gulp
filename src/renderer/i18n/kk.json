@@ -13,6 +13,10 @@
         "total":"Барлығы"
     },
     "page_setting":{
-        "tit":"Параметрлер"
+        "tit":"Параметрлер",
+        "demo_setting":{
+          "tit":"Сәлем",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

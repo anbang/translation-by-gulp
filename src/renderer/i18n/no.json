@@ -13,6 +13,10 @@
         "total":"total"
     },
     "page_setting":{
-        "tit":"Sett opp"
+        "tit":"Sett opp",
+        "demo_setting":{
+          "tit":"Hallo",
+          "hello":"zhubangbang.com"
+        }
     }
 }

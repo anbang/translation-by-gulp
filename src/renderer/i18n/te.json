@@ -13,6 +13,10 @@
         "total":"మొత్తం"
     },
     "page_setting":{
-        "tit":"ఏర్పాటు"
+        "tit":"ఏర్పాటు",
+        "demo_setting":{
+          "tit":"హలో",
+          "hello":"zhubangbang.com"
+        }
     }
 }

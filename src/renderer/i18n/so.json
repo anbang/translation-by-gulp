@@ -13,6 +13,10 @@
         "total":"Wadarta"
     },
     "page_setting":{
-        "tit":"Goobaha"
+        "tit":"Goobaha",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

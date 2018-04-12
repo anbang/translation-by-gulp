@@ -13,6 +13,10 @@
         "total":"Total"
     },
     "page_setting":{
-        "tit":"Zvirongwa"
+        "tit":"Zvirongwa",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

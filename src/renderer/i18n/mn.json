@@ -13,6 +13,10 @@
         "total":"Нийт"
     },
     "page_setting":{
-        "tit":"Тохиргоо"
+        "tit":"Тохиргоо",
+        "demo_setting":{
+          "tit":"Сайн байна уу",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

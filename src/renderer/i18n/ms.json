@@ -13,6 +13,10 @@
         "total":"Jumlah"
     },
     "page_setting":{
-        "tit":"Tetapan"
+        "tit":"Tetapan",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

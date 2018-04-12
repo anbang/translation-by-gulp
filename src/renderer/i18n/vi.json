@@ -13,6 +13,10 @@
         "total":"Tổng cộng"
     },
     "page_setting":{
-        "tit":"Cài đặt"
+        "tit":"Cài đặt",
+        "demo_setting":{
+          "tit":"Chào",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

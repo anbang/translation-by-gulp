@@ -13,6 +13,10 @@
         "total":"ಒಟ್ಟು"
     },
     "page_setting":{
-        "tit":"ಸೆಟ್ಟಿಂಗ್ಗಳು"
+        "tit":"ಸೆಟ್ಟಿಂಗ್ಗಳು",
+        "demo_setting":{
+          "tit":"ಹಲೋ",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

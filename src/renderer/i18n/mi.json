@@ -13,6 +13,10 @@
         "total":"Te tapeke"
     },
     "page_setting":{
-        "tit":"Tautuhinga"
+        "tit":"Tautuhinga",
+        "demo_setting":{
+          "tit":"Hiha",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

@@ -13,6 +13,10 @@
         "total":"summa"
     },
     "page_setting":{
-        "tit":"eriges"
+        "tit":"eriges",
+        "demo_setting":{
+          "tit":"salve",
+          "hello":"zhubangbang.com"
+        }
     }
 }

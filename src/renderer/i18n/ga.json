@@ -13,6 +13,10 @@
         "total":"Iomlán"
     },
     "page_setting":{
-        "tit":"Socruithe"
+        "tit":"Socruithe",
+        "demo_setting":{
+          "tit":"Dia duit",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

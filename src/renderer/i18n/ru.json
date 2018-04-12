@@ -13,6 +13,10 @@
         "total":"общий"
     },
     "page_setting":{
-        "tit":"устанавливать"
+        "tit":"устанавливать",
+        "demo_setting":{
+          "tit":"привет",
+          "hello":"zhubangbang.com"
+        }
     }
 }

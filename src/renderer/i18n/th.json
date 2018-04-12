@@ -13,6 +13,10 @@
         "total":"ทั้งหมด"
     },
     "page_setting":{
-        "tit":"จัดตั้งขึ้น"
+        "tit":"จัดตั้งขึ้น",
+        "demo_setting":{
+          "tit":"สวัสดี",
+          "hello":"zhubangbang.com"
+        }
     }
 }

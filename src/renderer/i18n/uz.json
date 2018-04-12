@@ -13,6 +13,10 @@
         "total":"Jami"
     },
     "page_setting":{
-        "tit":"Sozlamalar"
+        "tit":"Sozlamalar",
+        "demo_setting":{
+          "tit":"Salom",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

@@ -13,6 +13,10 @@
         "total":"Chiwerengero"
     },
     "page_setting":{
-        "tit":"Makhalidwe"
+        "tit":"Makhalidwe",
+        "demo_setting":{
+          "tit":"Moni",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

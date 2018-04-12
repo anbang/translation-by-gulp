@@ -13,6 +13,10 @@
         "total":"Iyonke"
     },
     "page_setting":{
-        "tit":"Izicwangciso"
+        "tit":"Izicwangciso",
+        "demo_setting":{
+          "tit":"Sawubona",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

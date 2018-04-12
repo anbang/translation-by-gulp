@@ -13,6 +13,10 @@
         "total":"kokonais-"
     },
     "page_setting":{
-        "tit":"perustettu"
+        "tit":"perustettu",
+        "demo_setting":{
+          "tit":"Hei",
+          "hello":"zhubangbang.com"
+        }
     }
 }

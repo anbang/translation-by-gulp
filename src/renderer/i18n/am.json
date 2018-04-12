@@ -13,6 +13,10 @@
         "total":"ጠቅላላ"
     },
     "page_setting":{
-        "tit":"ቅንብሮች"
+        "tit":"ቅንብሮች",
+        "demo_setting":{
+          "tit":"ሰላም",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

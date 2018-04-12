@@ -13,6 +13,10 @@
         "total":"skup"
     },
     "page_setting":{
-        "tit":"postaviti"
+        "tit":"postaviti",
+        "demo_setting":{
+          "tit":"Bok",
+          "hello":"zhubangbang.com"
+        }
     }
 }

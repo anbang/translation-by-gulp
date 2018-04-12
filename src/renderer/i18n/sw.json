@@ -13,6 +13,10 @@
         "total":"Jumla"
     },
     "page_setting":{
-        "tit":"Mipangilio"
+        "tit":"Mipangilio",
+        "demo_setting":{
+          "tit":"Sawa",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

@@ -13,6 +13,10 @@
         "total":"total"
     },
     "page_setting":{
-        "tit":"ngritur"
+        "tit":"ngritur",
+        "demo_setting":{
+          "tit":"Përshëndetje",
+          "hello":"zhubangbang.com"
+        }
     }
 }

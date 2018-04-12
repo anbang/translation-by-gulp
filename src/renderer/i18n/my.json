@@ -13,6 +13,10 @@
         "total":"စုစုပေါငျး"
     },
     "page_setting":{
-        "tit":"တက် Set"
+        "tit":"တက် Set",
+        "demo_setting":{
+          "tit":"မင်္ဂလာပါ",
+          "hello":"zhubangbang.com"
+        }
     }
 }

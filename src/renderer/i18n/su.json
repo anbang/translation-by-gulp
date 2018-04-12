@@ -13,6 +13,10 @@
         "total":"total"
     },
     "page_setting":{
-        "tit":"nyetél"
+        "tit":"nyetél",
+        "demo_setting":{
+          "tit":"halo",
+          "hello":"zhubangbang.com"
+        }
     }
 }

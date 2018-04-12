@@ -13,6 +13,10 @@
         "total":"toplam"
     },
     "page_setting":{
-        "tit":"kurmak"
+        "tit":"kurmak",
+        "demo_setting":{
+          "tit":"Merhaba",
+          "hello":"zhubangbang.com"
+        }
     }
 }

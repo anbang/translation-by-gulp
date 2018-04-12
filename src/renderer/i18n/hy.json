@@ -13,6 +13,10 @@
         "total":"Ընդամենը"
     },
     "page_setting":{
-        "tit":"Կարգավորումներ"
+        "tit":"Կարգավորումներ",
+        "demo_setting":{
+          "tit":"Բարեւ Ձեզ",
+          "hello":"Zhubangbang.com- ը"
+        }
     }
 }

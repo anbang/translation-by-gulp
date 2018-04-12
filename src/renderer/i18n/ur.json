@@ -13,6 +13,10 @@
         "total":"کل"
     },
     "page_setting":{
-        "tit":"ترتیبات"
+        "tit":"ترتیبات",
+        "demo_setting":{
+          "tit":"ہیلو",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

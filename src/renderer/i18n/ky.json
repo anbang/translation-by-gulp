@@ -13,6 +13,10 @@
         "total":"Бардыгы болуп"
     },
     "page_setting":{
-        "tit":"орнотуу"
+        "tit":"орнотуу",
+        "demo_setting":{
+          "tit":"салам",
+          "hello":"zhubangbang.com"
+        }
     }
 }

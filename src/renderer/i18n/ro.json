@@ -13,6 +13,10 @@
         "total":"total"
     },
     "page_setting":{
-        "tit":"Configurarea"
+        "tit":"Configurarea",
+        "demo_setting":{
+          "tit":"Alo",
+          "hello":"zhubangbang.com"
+        }
     }
 }

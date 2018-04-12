@@ -13,6 +13,10 @@
         "total":"Skupaj"
     },
     "page_setting":{
-        "tit":"Nastavitve"
+        "tit":"Nastavitve",
+        "demo_setting":{
+          "tit":"Pozdravljeni",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

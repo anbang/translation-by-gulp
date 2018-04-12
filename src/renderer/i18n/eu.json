@@ -13,6 +13,10 @@
         "total":"Guztira"
     },
     "page_setting":{
-        "tit":"Ezarri"
+        "tit":"Ezarri",
+        "demo_setting":{
+          "tit":"Kaixo",
+          "hello":"zhubangbang.com"
+        }
     }
 }

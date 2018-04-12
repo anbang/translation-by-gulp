@@ -13,6 +13,10 @@
         "total":"مجموع"
     },
     "page_setting":{
-        "tit":"نصب"
+        "tit":"نصب",
+        "demo_setting":{
+          "tit":"مرحبا",
+          "hello":"zhubangbang.com"
+        }
     }
 }

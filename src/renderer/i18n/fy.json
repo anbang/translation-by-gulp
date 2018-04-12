@@ -13,6 +13,10 @@
         "total":"Totaal"
     },
     "page_setting":{
-        "tit":"Ynstellings"
+        "tit":"Ynstellings",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

@@ -13,6 +13,10 @@
         "total":"합계"
     },
     "page_setting":{
-        "tit":"설정"
+        "tit":"설정",
+        "demo_setting":{
+          "tit":"안녕하세요.",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

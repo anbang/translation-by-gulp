@@ -13,6 +13,10 @@
         "total":"Aofaʻi"
     },
     "page_setting":{
-        "tit":"Faʻasologa"
+        "tit":"Faʻasologa",
+        "demo_setting":{
+          "tit":"Talofa",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

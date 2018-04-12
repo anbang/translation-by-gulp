@@ -13,6 +13,10 @@
         "total":"სულ"
     },
     "page_setting":{
-        "tit":"პარამეტრები"
+        "tit":"პარამეტრები",
+        "demo_setting":{
+          "tit":"გამარჯობა",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

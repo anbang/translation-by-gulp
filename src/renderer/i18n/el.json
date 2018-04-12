@@ -13,6 +13,10 @@
         "total":"Σύνολο"
     },
     "page_setting":{
-        "tit":"Ρυθμίσεις"
+        "tit":"Ρυθμίσεις",
+        "demo_setting":{
+          "tit":"Γεια σας",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

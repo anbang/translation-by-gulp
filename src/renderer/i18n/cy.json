@@ -13,6 +13,10 @@
         "total":"Cyfanswm"
     },
     "page_setting":{
-        "tit":"Gosodiadau"
+        "tit":"Gosodiadau",
+        "demo_setting":{
+          "tit":"Helo",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

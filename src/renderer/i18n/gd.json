@@ -13,6 +13,10 @@
         "total":"Iomlan"
     },
     "page_setting":{
-        "tit":"Roghainnean"
+        "tit":"Roghainnean",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

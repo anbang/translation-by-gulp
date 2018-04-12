@@ -13,6 +13,10 @@
         "total":"Total"
     },
     "page_setting":{
-        "tit":"Configuración"
+        "tit":"Configuración",
+        "demo_setting":{
+          "tit":"Ola",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

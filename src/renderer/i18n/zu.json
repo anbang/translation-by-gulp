@@ -13,6 +13,10 @@
         "total":"Inani"
     },
     "page_setting":{
-        "tit":"Izilungiselelo"
+        "tit":"Izilungiselelo",
+        "demo_setting":{
+          "tit":"Sawubona",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

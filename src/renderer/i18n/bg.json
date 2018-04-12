@@ -13,6 +13,10 @@
         "total":"общо"
     },
     "page_setting":{
-        "tit":"Създаване"
+        "tit":"Създаване",
+        "demo_setting":{
+          "tit":"Здравейте",
+          "hello":"zhubangbang.com"
+        }
     }
 }

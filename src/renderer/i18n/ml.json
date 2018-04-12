@@ -13,6 +13,10 @@
         "total":"ആകെ"
     },
     "page_setting":{
-        "tit":"ക്രമീകരണങ്ങൾ"
+        "tit":"ക്രമീകരണങ്ങൾ",
+        "demo_setting":{
+          "tit":"ഹലോ",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

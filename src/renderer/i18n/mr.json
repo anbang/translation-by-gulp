@@ -13,6 +13,10 @@
         "total":"एकूण"
     },
     "page_setting":{
-        "tit":"सेटिंग्ज"
+        "tit":"सेटिंग्ज",
+        "demo_setting":{
+          "tit":"हॅलो",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

@@ -13,6 +13,10 @@
         "total":"Hōʻuluʻulu"
     },
     "page_setting":{
-        "tit":"Nā Papa"
+        "tit":"Nā Papa",
+        "demo_setting":{
+          "tit":"Alohaʻoe",
+          "hello":"Kuianao.com"
+        }
     }
 }

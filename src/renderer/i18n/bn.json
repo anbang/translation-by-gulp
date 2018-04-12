@@ -13,6 +13,10 @@
         "total":"মোট"
     },
     "page_setting":{
-        "tit":"সেট আপ করুন"
+        "tit":"সেট আপ করুন",
+        "demo_setting":{
+          "tit":"হ্যালো",
+          "hello":"zhubangbang.com"
+        }
     }
 }

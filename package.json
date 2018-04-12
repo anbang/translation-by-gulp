@@ -1,5 +1,5 @@
 {
-  "name": "fanyi-demo",
+  "name": "translation-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "zhubangbang.com",
   "license": "ISC",
   "devDependencies": {
     "translation.js": "^0.7.3",

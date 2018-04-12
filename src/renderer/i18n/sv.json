@@ -13,6 +13,10 @@
         "total":"total"
     },
     "page_setting":{
-        "tit":"Ställ in"
+        "tit":"Ställ in",
+        "demo_setting":{
+          "tit":"Hallå",
+          "hello":"zhubangbang.com"
+        }
     }
 }

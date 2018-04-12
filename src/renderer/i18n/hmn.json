@@ -13,6 +13,10 @@
         "total":"Tag nrho"
     },
     "page_setting":{
-        "tit":"Chaw"
+        "tit":"Chaw",
+        "demo_setting":{
+          "tit":"Nyob zoo",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

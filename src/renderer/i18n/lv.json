@@ -13,6 +13,10 @@
         "total":"Kopā"
     },
     "page_setting":{
-        "tit":"Iestatījumi"
+        "tit":"Iestatījumi",
+        "demo_setting":{
+          "tit":"Labdien!",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

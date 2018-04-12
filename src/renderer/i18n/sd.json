@@ -13,6 +13,10 @@
         "total":"ڪل"
     },
     "page_setting":{
-        "tit":"سيٽنگون"
+        "tit":"سيٽنگون",
+        "demo_setting":{
+          "tit":"هيلو",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

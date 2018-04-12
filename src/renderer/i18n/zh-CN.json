@@ -13,6 +13,10 @@
         "total":"合计"
     },
     "page_setting":{
-        "tit":"设置"
+        "tit":"设置",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"zhubangbang.com"
+        }
     }
 }

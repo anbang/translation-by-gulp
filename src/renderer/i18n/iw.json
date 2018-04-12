@@ -13,6 +13,10 @@
         "total":"סך הכל"
     },
     "page_setting":{
-        "tit":"הגדרות"
+        "tit":"הגדרות",
+        "demo_setting":{
+          "tit":"שלום",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

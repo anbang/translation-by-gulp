@@ -13,6 +13,10 @@
         "total":"Tuta"
     },
     "page_setting":{
-        "tit":"Agordoj"
+        "tit":"Agordoj",
+        "demo_setting":{
+          "tit":"Saluton",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

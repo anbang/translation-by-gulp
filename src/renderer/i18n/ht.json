@@ -13,6 +13,10 @@
         "total":"Total"
     },
     "page_setting":{
-        "tit":"Anviwònman"
+        "tit":"Anviwònman",
+        "demo_setting":{
+          "tit":"Bonjou",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

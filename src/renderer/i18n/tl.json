@@ -13,6 +13,10 @@
         "total":"Kabuuang"
     },
     "page_setting":{
-        "tit":"Mga Setting"
+        "tit":"Mga Setting",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

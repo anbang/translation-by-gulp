@@ -13,6 +13,10 @@
         "total":"Kakaretso"
     },
     "page_setting":{
-        "tit":"Lisebelisoa"
+        "tit":"Lisebelisoa",
+        "demo_setting":{
+          "tit":"Hello",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

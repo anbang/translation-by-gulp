@@ -13,6 +13,10 @@
         "total":"Kokku"
     },
     "page_setting":{
-        "tit":"Seaded"
+        "tit":"Seaded",
+        "demo_setting":{
+          "tit":"Tere",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

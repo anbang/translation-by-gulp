@@ -13,6 +13,10 @@
         "total":"Jimlar"
     },
     "page_setting":{
-        "tit":"Saituna"
+        "tit":"Saituna",
+        "demo_setting":{
+          "tit":"Sannu",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

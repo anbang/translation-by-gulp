@@ -13,6 +13,10 @@
         "total":"Ümumi"
     },
     "page_setting":{
-        "tit":"Ayarlar"
+        "tit":"Ayarlar",
+        "demo_setting":{
+          "tit":"Salam",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

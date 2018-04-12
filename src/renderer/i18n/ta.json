@@ -13,6 +13,10 @@
         "total":"மொத்த"
     },
     "page_setting":{
-        "tit":"அமைக்கவும்"
+        "tit":"அமைக்கவும்",
+        "demo_setting":{
+          "tit":"ஹலோ",
+          "hello":"zhubangbang.com"
+        }
     }
 }

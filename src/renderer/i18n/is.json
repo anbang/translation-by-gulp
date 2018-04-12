@@ -13,6 +13,10 @@
         "total":"Samtals"
     },
     "page_setting":{
-        "tit":"Stillingar"
+        "tit":"Stillingar",
+        "demo_setting":{
+          "tit":"Halló",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

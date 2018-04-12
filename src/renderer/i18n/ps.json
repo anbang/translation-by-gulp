@@ -13,6 +13,10 @@
         "total":"ټول"
     },
     "page_setting":{
-        "tit":"امستنې"
+        "tit":"امستنې",
+        "demo_setting":{
+          "tit":"سلام",
+          "hello":"ژبنګبنګ"
+        }
     }
 }

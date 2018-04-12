@@ -13,6 +13,10 @@
         "total":"Iš viso"
     },
     "page_setting":{
-        "tit":"Nustatymai"
+        "tit":"Nustatymai",
+        "demo_setting":{
+          "tit":"Sveiki",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

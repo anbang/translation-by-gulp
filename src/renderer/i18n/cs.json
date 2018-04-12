@@ -13,6 +13,10 @@
         "total":"Celkem"
     },
     "page_setting":{
-        "tit":"Nastavení"
+        "tit":"Nastavení",
+        "demo_setting":{
+          "tit":"Dobrý den",
+          "hello":"Zhubangbang.com"
+        }
     }
 }

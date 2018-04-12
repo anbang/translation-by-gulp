@@ -13,6 +13,10 @@
         "total":"totaal"
     },
     "page_setting":{
-        "tit":"oprichten"
+        "tit":"oprichten",
+        "demo_setting":{
+          "tit":"Hallo",
+          "hello":"zhubangbang.com"
+        }
     }
 }

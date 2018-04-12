@@ -13,6 +13,10 @@
         "total":"I alt"
     },
     "page_setting":{
-        "tit":"Opsæt"
+        "tit":"Opsæt",
+        "demo_setting":{
+          "tit":"Hej",
+          "hello":"zhubangbang.com"
+        }
     }
 }

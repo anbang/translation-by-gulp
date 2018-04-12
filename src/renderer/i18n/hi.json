@@ -13,6 +13,10 @@
         "total":"संपूर्ण"
     },
     "page_setting":{
-        "tit":"सेट करें"
+        "tit":"सेट करें",
+        "demo_setting":{
+          "tit":"नमस्ते",
+          "hello":"zhubangbang.com"
+        }
     }
 }

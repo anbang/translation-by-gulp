@@ -13,6 +13,10 @@
         "total":"សរុប"
     },
     "page_setting":{
-        "tit":"ការកំណត់"
+        "tit":"ការកំណត់",
+        "demo_setting":{
+          "tit":"ជំរាបសួរ",
+          "hello":"Zhubangbang.com"
+        }
     }
 }
